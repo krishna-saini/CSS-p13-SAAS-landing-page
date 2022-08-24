@@ -26,7 +26,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./7.png)
+![](./13.png)
 
 ### Links
 -  [Solution URL:](https://github.com/krishna-saini/P13--SAAS-Landing-Page)
